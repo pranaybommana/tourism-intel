@@ -1,0 +1,15 @@
+# Normalize line endings to LF on commit, checkout as native on Windows
+* text=auto eol=lf
+
+# Binary files — never normalize
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.db binary
+*.db-journal binary
