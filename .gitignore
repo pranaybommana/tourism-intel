@@ -42,13 +42,6 @@ env/
 backend_env/
 __pyenv__/
 
-# Python cache & compiled files
-__pycache__/
-*.py[cod]
-*$py.class
-*.pyo
-*.pyd
-*.pyc
 
 # Distribution / packaging
 *.egg
