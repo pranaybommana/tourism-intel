@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
 
   // GitHub Pages
-  base: '/TOURISM-INTEL/',
+  base: '/tourism-intel/',
 
   server: {
     port: 3000,
