@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" fill="#0a192f" stroke="#06b6d4" stroke-width="4"/>
+  <path d="M50 18L72 78L50 64L28 78L50 18Z" fill="url(#cyanGlow)" stroke="#38bdf8" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="50" cy="50" r="6" fill="#00f2fe"/>
+  <defs>
+    <linearGradient id="cyanGlow" x1="50" y1="18" x2="50" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00f2fe"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+</svg>
